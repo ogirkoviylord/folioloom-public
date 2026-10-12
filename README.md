@@ -6,6 +6,8 @@
 
 [Website](https://folioloom.com) · [Early Telegram prototype](https://t.me/folioloombot) · [Contact](mailto:hello@folioloom.com)
 
+**Source code access is available on request** for investors, accelerators, technical partners and reviewers. Contact [hello@folioloom.com](mailto:hello@folioloom.com) to discuss access to the private source repository.
+
 ## What is FolioLoom
 
 FolioLoom is an independently developed project exploring how authors and rightsholders can guide AI-assisted translation of books, manuscripts and other long documents. Its direction is an author-focused translation workbench: import a document, clarify terminology, generate a draft, review findings and export a usable document.
