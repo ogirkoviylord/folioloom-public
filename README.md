@@ -12,7 +12,7 @@
 
 FolioLoom is an independently developed project exploring how authors and rightsholders can guide AI-assisted translation of books, manuscripts and other long documents. Its direction is an author-focused translation workbench: import a document, clarify terminology, generate a draft, review findings and export a usable document.
 
-The current document scope is **TXT, DOCX and EPUB**. The intended workflow is for material the author or rightsholder is authorized to translate.
+**DOCX is the current development focus.** TXT and EPUB processing foundations also exist; this does not mean the integrated Workbench is publicly available in any format. The intended workflow is for material the author or rightsholder is authorized to translate.
 
 This repository is a public technical profile of the project. It contains product and architecture documentation; product source code is developed privately.
 
@@ -86,9 +86,9 @@ That history can be examined during an agreed private source review. Commit volu
 
 ## Product direction
 
-The focus is a controlled author workflow for TXT, DOCX and EPUB: terminology decisions, document structure, translation drafts, review and export.
+The immediate focus is a controlled DOCX author workflow: terminology decisions, document structure, translation drafts, review and export. Existing TXT/EPUB foundations remain part of the project.
 
-Near-term work is to connect those foundations into a coherent workflow and evaluate the results before broader access. See the [high-level roadmap](docs/roadmap.md).
+Near-term work is to connect those foundations into a coherent workflow and evaluate the results before broader access. The longer-term direction adds more formats, editing of translated editions and full book design/typesetting capabilities. These are plans, not available features, and no delivery dates are announced. See the [product roadmap](docs/roadmap.md).
 
 ## Research notes
 
