@@ -90,6 +90,12 @@ The focus is a controlled author workflow for TXT, DOCX and EPUB: terminology de
 
 Near-term work is to connect those foundations into a coherent workflow and evaluate the results before broader access. See the [high-level roadmap](docs/roadmap.md).
 
+## Research notes
+
+[A book needs more than a fluent draft](docs/research/2026-10-19-book-translation.md) — an English research update about terminology, editorial context and document completeness, based on publicly available sources rather than our own customer interviews.
+
+Read the [research page](https://folioloom.com/research/) or inspect the [full source register](docs/research/evidence-register.csv). The register preserves source links, evidence types and verification limits; it is not a count of customers or confirmed incidents.
+
 ### Public UI concepts
 
 The following images are already published on [folioloom.com](https://folioloom.com). They are **design prototypes**, not screenshots of a finished application. Example content illustrates the intended experience; it is not evidence of actual users, projects or quality results.
