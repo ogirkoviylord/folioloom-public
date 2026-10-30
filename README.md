@@ -4,7 +4,7 @@
 
 **FolioLoom is currently a pre-MVP project under active development.**
 
-[Website](https://folioloom.com) · [Early Telegram prototype](https://t.me/folioloombot) · [Contact](mailto:hello@folioloom.com)
+[Website](https://folioloom.com) · [Contact](mailto:hello@folioloom.com)
 
 **Source code access is available on request** for investors, accelerators, technical partners and reviewers. Contact [hello@folioloom.com](mailto:hello@folioloom.com) to discuss access to the private source repository.
 
@@ -28,7 +28,6 @@ FolioLoom is being developed to bring those decisions into a reviewable workflow
 
 | Existing capability or foundation | Current boundary |
 | --- | --- |
-| Working Telegram document-translation prototype | An early interface; processing can fail and translation quality is uneven. |
 | TXT, DOCX and EPUB extraction, translation planning and output assembly | Implemented foundations; document fidelity still needs representative validation. |
 | Preview, progress, cancellation and document-return flows in the prototype | Existing prototype behavior, not proof of a complete workbench experience. |
 | Persistent translation jobs and background workers | Backend foundations, not a production-readiness claim. |
@@ -50,12 +49,9 @@ flowchart LR
     E --> F[Export]
 ```
 
-Two flows explain the project's evolution:
+**Workbench direction:** import and document setup → author terminology decisions → AI-assisted draft → review of translation and structure → export.
 
-- **Existing prototype:** document upload → preview or confirmation → translation progress → document return through Telegram.
-- **Workbench direction:** import and document setup → author terminology decisions → AI-assisted draft → review of translation and structure → export.
-
-The [Telegram prototype](https://t.me/folioloombot) is the early version that started the project. It is not the final interface, and its public link does not imply unrestricted access or reliable availability.
+Document-processing and translation prototypes provide existing foundations. Processing can fail and translation quality is uneven; the integrated Workbench remains in development.
 
 ## Technical overview
 
@@ -69,11 +65,11 @@ See [Architecture overview](docs/architecture.md) for the high-level processing 
 
 ## Development history
 
-FolioLoom began as a personal long-form translation project and a working Telegram bot. Development then shifted toward a dedicated workbench for authors and rightsholders.
+FolioLoom began as a personal long-form translation project. Development then shifted toward a dedicated workbench for authors and rightsholders.
 
 | Period | Development milestone |
 | --- | --- |
-| May 2026 | First working Telegram document-translation prototype. |
+| May 2026 | First working document-translation prototype. |
 | June 2026 | Shift toward an author-focused translation workbench. |
 | July 2026 | Workbench visual prototypes and initial glossary interface. |
 | Current | Active development of document, terminology and author-workflow foundations. |
