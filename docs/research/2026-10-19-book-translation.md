@@ -2,7 +2,7 @@
 
 *Research update · 19 October 2026*
 
-FolioLoom started with a personal problem: translating books with tools that did not quite fit the way I wanted to work. As the project grew from a Telegram prototype toward a dedicated workbench, I wanted to look beyond my own experience.
+FolioLoom started with a personal problem: translating books with tools that did not quite fit the way I wanted to work. As the project grew toward a dedicated workbench, I wanted to look beyond my own experience.
 
 This research draws on publicly available discussions, user reports and expert material. It is desk research, not findings from our own customer interviews or testimonials about FolioLoom.
 
@@ -18,7 +18,7 @@ This research draws on publicly available discussions, user reports and expert m
 
 The approach we are developing connects **author context → terminology decisions → translation draft → review → export**. The aim is to keep decisions with the text and make the resulting document easier to inspect, rather than treating a fluent AI draft as a finished book.
 
-The Telegram prototype and internal document-processing and glossary-authoring foundations exist. The web Workbench is still in development and is not publicly available. Connecting approved terminology to translation and completing the integrated review workflow remain development work. We have not demonstrated improved literary quality, time savings or publication-ready output. Checking accuracy in an unfamiliar language still needs qualified bilingual judgment.
+Internal document-processing, translation and glossary-authoring foundations exist. The web Workbench is still in development and is not publicly available. Connecting approved terminology to translation and completing the integrated review workflow remain development work. We have not demonstrated improved literary quality, time savings or publication-ready output. Checking accuracy in an unfamiliar language still needs qualified bilingual judgment.
 
 ## Existing workflows matter too
 
